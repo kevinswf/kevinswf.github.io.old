@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I research, design, and build interactive techniques and systems for emerging technologies and products.
+I research, design, and develop interactive techniques and systems for emerging technologies and products.
 
 I am the Digital Experience Lead at Fujitsu, where I build solutions for Digital Twins, XR, and Generative AI technologies.
 Previously, I was a Senior HCI researcher at Huawei Canada, creating novel human interfaces and intuitive user experiences for mobile devices, wearables, and vehicles.
